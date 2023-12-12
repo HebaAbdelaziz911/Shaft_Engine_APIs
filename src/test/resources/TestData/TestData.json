@@ -1,0 +1,7 @@
+{
+  "searchDataGiza": "Giza Systems",
+  "expectedFirstSearchGiza": "Giza Systems",
+
+  "searchDataSelenium": "Selenium WebDriver",
+  "expectedFirstSearchSelenium": "WebDriver"
+}
